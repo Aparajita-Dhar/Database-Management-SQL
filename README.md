@@ -2,7 +2,7 @@
 
 This repository serves as an academic archive demonstrating database design methodologies and relational query optimization. It chronicles the transition from conceptual schemas to structural database implementation, table constraints configuration, and complex query executions.
 
-## 📂 Design Architecture Index
+##  Design Architecture Index
 
 ### 1. SQL Data Types & Operators Overview
 Every attribute in a relational database must possess a defined data type to control storage allocation and domain constraints.
