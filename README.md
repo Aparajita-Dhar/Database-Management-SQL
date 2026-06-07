@@ -33,7 +33,7 @@ To map an abstract ER Diagram into actual SQL database engine tables, strict rel
 
 ---
 
-## 💾 SQL Scripts Progress Index
+##  SQL Scripts Progress Index
 * **`01_schema_and_queries.sql`**
   * Implements explicit database generation instructions, controls constraint systems (`PRIMARY KEY`, `FOREIGN KEY`, `CHECK`), maps relational logic matrices (`EXISTS`, `ALL`, `UNION`), clusters aggregated outputs (`GROUP BY`, `HAVING`), and establishes isolated storage masks using virtual `VIEWS`.
 
